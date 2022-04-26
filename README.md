@@ -19,7 +19,7 @@ Here are some ideas to get you started:
    
 ## 💬 ABOUT ME
    
-![dltkddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkddbs&show_icons=true&theme=dracula)          [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2014136088)](https://solved.ac/profile/2014136088)
+![dltkddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkddbs&show_icons=true&theme=dracula)&[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2014136088)](https://solved.ac/profile/2014136088)
    
    
    
