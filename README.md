@@ -19,8 +19,6 @@ Here are some ideas to get you started:
    
 ## 💬 ABOUT ME
    
-<hr />  
-   
 ![dltkddbs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkddbs&show_icons=true&theme=dracula)
    
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2014136088)](https://solved.ac/profile/2014136088)
@@ -29,8 +27,6 @@ Here are some ideas to get you started:
    
    
 ## ⚡ TECH STACKS   
-   
-<hr />   
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -44,8 +40,6 @@ Here are some ideas to get you started:
    
    
 ## 📫 CONTACT TO ME
-   
-<hr />
    
 <a href="mailto:zlflshdh84@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
 
